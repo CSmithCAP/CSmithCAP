@@ -2,7 +2,7 @@
 - 👀 I’m interested in hardware technology
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on homework
-- 📫 How to reach me csmith@cap.gov
+- 📫 How to reach me christophersmith14@mail.weber.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a USAF Veteran!
 
